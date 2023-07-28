@@ -1,0 +1,101 @@
+html
+{
+    background-size: 1200px 600px; 
+    background-image: url(img/scenes/scene_one.png);
+    background-size: cover;
+    pointer-events: none;
+    top: 0px;
+    left: 0px;
+   
+}
+
+.wrapper
+{
+    pointer-events: none;
+    user-select: none;
+}
+
+#player
+{
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    width: 150px;
+    height: 150px;
+    top:0px;
+    left:0px;
+}
+
+#keys
+{
+    position: fixed;
+    left: 75vw;
+}
+
+#asteroid
+{
+    width: 700px;
+    height: 700px;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    top:0px;
+    left:0px;
+}
+
+.disable-scrolling
+{
+    height: 100%;
+    overflow: hidden;
+}
+
+
+
+#enter
+{
+    position: fixed;
+    top:25vh;
+    left:50vw;
+    visibility: hidden;
+}
+
+#left_arrow
+{
+    position: fixed;
+    top:38vh;
+    left:-8vw;
+}
+
+#right_arrow
+{
+    position: fixed;
+    top:40vh;
+    left:83vw;
+}
+
+#down_arrow
+{
+    position: fixed;
+    top: 65vh;
+    left:34vw;
+}
+
+#up_arrow
+{
+    position: fixed;
+    top:-15vh;
+    left:35vw;
+}
+
+#canvas
+{
+    position: fixed;
+    top: 0;
+    left:0;
+    width:100vw;
+    height: 100vh;
+}
+
+
+
+
