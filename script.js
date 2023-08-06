@@ -6,9 +6,9 @@ let moveBy = (window.innerHeight + window.innerWidth) / 40;
 var univ_screen = document.querySelector('html');
 var current_scene = "sceneOne";
 
-let github_url_one = 'https://github.com/DeanLowell'
+let github_url_one = 'https://github.com/DeanLowell/webscraping'
 let github_url_two = 'https://github.com/DeanLowell'
-let github_url_three = 'https://github.com/DeanLowell'
+let github_url_three = 'https://github.com/DeanLowell/learning-programming'
 
 
 
