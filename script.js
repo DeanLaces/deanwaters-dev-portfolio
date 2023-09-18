@@ -108,7 +108,7 @@ function scrollingScene(scene)
 
                 player.style.left = (window.screen.width /2)+"px";
                 player.style.top= (window.screen.height/2) + "px"; 
-                univ_screen.style.backgroundImage= 'url(' + 'img/scenes/scene_three{1).png' + ')';
+                univ_screen.style.backgroundImage= 'url(' + 'img/scenes/scene_three (1) (1).png' + ')';
                 current_scene = 'sceneThree'
             }
 
